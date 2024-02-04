@@ -121,7 +121,9 @@ You can also change the commands to be easier/more relevant for your stream.
 - Go to the voice command tab on streamerbot and set up a new voice command.
 - I suggest using something unique you won't say accidentally
 - ex. "start the silly gamba!"
-- Set up the voice command like so:
+- Set up the voice commands like so:
+![image](https://github.com/WaffleSmacker/CreateTwitchPredictions-StreamerBot/assets/131427794/26d6624d-ea55-47a1-9b7b-6d2de521ffda)
+![image](https://github.com/WaffleSmacker/CreateTwitchPredictions-StreamerBot/assets/131427794/caedd82d-b798-4375-91fa-4fc43c62f967)
 - Press ok to save the voice command and go back to your Prediction Action.
 - Set up the voice command you just created as a Trigger
 - Try saying the voice command to see if it works!
